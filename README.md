@@ -67,6 +67,6 @@ The objective of this dashboard is to:
 4. Analyze KPIs and visuals to extract business insights
 
 ## Dashboard Preview
-
+![Financial Dashboard](https://github.com/sampathamaravadhi/Financial-analysis-dashboard/blob/main/financial%20dashboard.png)
 
 
